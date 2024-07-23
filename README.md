@@ -19,7 +19,7 @@ Este é um projeto de gerenciamento de workshops, colaboradores e atas usando No
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/workshop-back.git
-   cd workshop-back/
+   cd workshop_back/
    ```
 2. Instale as dependências:
    ``` 
